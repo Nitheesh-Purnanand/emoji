@@ -67,8 +67,14 @@ display: flex;
     /* left: 50%; */
     width: 600px;
     height: 600px;
-    background-color:yellow;
+    background-color:
+    #fce131;
     border-radius: 50%;
+}
+.smile{
+    position: relative;
+    left: 120px;
+    top: 110px;
 }
 .big_container3{
     position: absolute;
